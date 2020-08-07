@@ -4,3 +4,6 @@
 [submodule "front-end-project"]
 	path = front-end-project
 	url = https://github.com/GustavoBraz/front-end-project.git
+[submodule "mobile-project"]
+	path = mobile-project
+	url = https://github.com/GustavoBraz/mobile-project.git
